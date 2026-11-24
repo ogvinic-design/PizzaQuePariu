@@ -17,4 +17,4 @@ O script `banco/banco_pizzaria_delivery.sql` cria o banco no MySQL Workbench com
 Como rodar:
 Abra o projeto no IntelliJ e execute a classe PizzaQuePariu.java.
 
-Autores: José Vinícius Soares Vieira Costa; Lucas Henrique Vitalino de Melo
+Autores: José Vinícius Soares Vieira Costa; Gabriel valenca de Lima
